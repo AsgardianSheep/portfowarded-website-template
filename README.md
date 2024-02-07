@@ -1,1 +1,1 @@
-```js Funni template for my dent head self```
+```Funni template for my dent head self```
